@@ -1,13 +1,3 @@
-import UIKit
-import Flutter
-
-@UIApplicationMain
-@objc class AppDelegate: FlutterAppDelegate {
-  override func application(
-    _ application: UIApplication,
-    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
-  ) -> Bool {
-    GeneratedPluginRegistrant.register(with: self)
-    return super.application(application, didFinishLaunchingWithOptions: launchOptions)
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b12dcef39c6c68ccdc06690291644dde54732a010caea105a2107b0e0e73d76a
+size 417

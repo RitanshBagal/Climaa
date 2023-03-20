@@ -1,18 +1,3 @@
-#ifndef FLUTTER_MY_APPLICATION_H_
-#define FLUTTER_MY_APPLICATION_H_
-
-#include <gtk/gtk.h>
-
-G_DECLARE_FINAL_TYPE(MyApplication, my_application, MY, APPLICATION,
-                     GtkApplication)
-
-/**
- * my_application_new:
- *
- * Creates a new Flutter-based application.
- *
- * Returns: a new #MyApplication.
- */
-MyApplication* my_application_new();
-
-#endif  // FLUTTER_MY_APPLICATION_H_
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9be2b58ead9fa2fa3422636120e85ea8ee2a600aa0b42e268cb8ff0ae4b9b5d
+size 406

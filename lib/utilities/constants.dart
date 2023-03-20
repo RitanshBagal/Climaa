@@ -1,20 +1,3 @@
-import 'package:flutter/material.dart';
-
-const kTempTextStyle = TextStyle(
-  fontFamily: 'Spartan MB',
-  fontSize: 100.0,
-);
-
-const kMessageTextStyle = TextStyle(
-  fontFamily: 'Spartan MB',
-  fontSize: 60.0,
-);
-
-const kButtonTextStyle = TextStyle(
-  fontSize: 30.0,
-  fontFamily: 'Spartan MB',
-);
-
-const kConditionTextStyle = TextStyle(
-  fontSize: 100.0,
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eba9a298596dad969a6c228d1cccc937666026ad8e0535928d94e1212f9fecb
+size 802

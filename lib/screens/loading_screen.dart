@@ -1,23 +1,3 @@
-import 'package:flutter/material.dart';
-
-class LoadingScreen extends StatefulWidget {
-  const LoadingScreen({Key? key}) : super(key: key);
-  @override
-  State<LoadingScreen> createState() => _LoadingScreenState();
-}
-
-class _LoadingScreenState extends State<LoadingScreen> {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: Center(
-        child: RaisedButton(
-          onPressed: () {
-            //Get the current location
-          },
-          child: const Text('Get Location'),
-        ),
-      ),
-    );
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:565d06d3c7bbe75e8ad04967bc948d7c4fcf4487e36e9d6b2f13d20aac4376f4
+size 1091
